@@ -16,7 +16,7 @@ esc = quit)
 + run sketch / export it
 
 # Plattforms
-Tested it on...
+Successfully run on...
 + Win (win7)
 + Mac
 + Linux (Ubuntu)
