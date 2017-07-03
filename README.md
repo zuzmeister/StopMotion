@@ -6,11 +6,12 @@ Program captures jpeg-images and saves them under `/%ProgramDir%/data/images/%ti
 
 **Use the MovieMaker (Processing>Tools>MovieMaker) to generate a QuickTime-Movie file out of it.**
 
-# Features
-+ Onion Skinning [wikipedia](https://en.wikipedia.org/wiki/Onion_skinning)
+# Featuring
++ Onion Skinning [(wikipedia)](https://en.wikipedia.org/wiki/Onion_skinning)
++ Auto-Saving
 
 # Not Featuring
-+ Movie Export (Use the MovieMaker-Tool provided by Processing or a Video-Editor)
++ Movie Export (instead: use the [MovieMaker-Tool](https://youtu.be/ud1WQgQzFWU?t=2m8s) provided by Processing or a Video-Editor)
 
 # Keyboard Controls
 `space` = take picture  
