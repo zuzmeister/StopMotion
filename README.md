@@ -4,11 +4,17 @@ Simple but working Sketch helping to generate stopmotion films by capturing imag
 
 Program captures jpeg-images and saves them under `/%ProgramDir%/data/images/%timestamp%/`.  
 
-Use the MovieMaker (Processing>Tools>MovieMaker) to generate a QuickTime-Movie file out of it.
+**Use the MovieMaker (Processing>Tools>MovieMaker) to generate a QuickTime-Movie file out of it.**
+
+# Features
++ Onion Skinning [wikipedia](https://en.wikipedia.org/wiki/Onion_skinning)
+
+# Not Featuring
++ Movie Export (Use the MovieMaker-Tool provided by Processing or a Video-Editor)
 
 # Keyboard Controls
 `space` = take picture  
-`esc` = quit)
+`esc` = quit
 
 # install/run
 + download processing: http://processing.org
