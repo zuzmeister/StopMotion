@@ -12,6 +12,7 @@ Program captures jpeg-images and saves them under `/%ProgramDir%/data/images/%ti
 
 # Not Featuring
 + Movie Export (instead: use the [MovieMaker-Tool](https://youtu.be/ud1WQgQzFWU?t=2m8s) provided by Processing or a Video-Editor)
++ Anything exceeding the absolute minimum.
 
 # Keyboard Controls
 `space` = take picture  
