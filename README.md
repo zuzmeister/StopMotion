@@ -7,8 +7,8 @@ Program captures jpeg-images and saves them under `/%ProgramDir%/data/images/%ti
 Use the MovieMaker (Processing>Tools>MovieMaker) to generate a QuickTime-Movie file out of it.
 
 # Keyboard Controls
-spacebar = take picture  
-esc = quit)
+`space` = take picture  
+`esc` = quit)
 
 # install/run
 + download processing: http://processing.org
