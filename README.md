@@ -1,6 +1,7 @@
 # StopMotion
 Win/Mac/Linux. Written in Processing. Simple but working Sketch helping to generate stopmotion films by capturing images from a usb-webcam.  
 Program captures jpeg-images and saves them under `/%ProgramDir%/data/images/%timestamp%/`. 
+
 Use the MovieMaker (Processing>Tools>MovieMaker) to generate a QuickTime-Movie file out of it.
 
 # Keyboard Controls
