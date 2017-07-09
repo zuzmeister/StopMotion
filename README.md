@@ -1,6 +1,6 @@
 # StopMotion
 ## About
-Simple but working Sketch helping to generate stopmotion films by capturing images from an usb-webcam. I quickly wrote it for a [StopMotion-Workshop with kids](http://kinderunikunst2017.tommachtalles.net/) because there weren't many/any free/working/easy2use Applications around. There's a lot to improve, but it's working stable.  
+Simple but working Sketch helping to generate stopmotion films by capturing images from an usb-webcam. I quickly wrote it for a [StopMotion-Workshop for kids](http://kinderunikunst2017.tommachtalles.net/) because there weren't many free/working/easy2use Applications around. There's a lot to improve, but it's working.    
 
 The program captures jpeg-images and saves them under `/%ProgramDir%/data/images/%timestamp%/`.
 **Use the MovieMaker (Processing>Tools>MovieMaker) to generate a QuickTime-Movie file out of it.**  
