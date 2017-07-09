@@ -5,7 +5,7 @@ Simple but working Sketch helping to generate stopmotion films by capturing imag
 The program captures jpeg-images and saves them under `/%ProgramDir%/data/images/%timestamp%/`.
 **Use the MovieMaker (Processing>Tools>MovieMaker) to generate a QuickTime-Movie file out of it.**  
 
-**Runs on:** Win/Mac/Linux. 
+**Runs on:** Win/Mac/Linux.  
 **Written in:** Processing.  
 
 ## Featuring
